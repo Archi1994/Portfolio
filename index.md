@@ -10,6 +10,6 @@ Fraud detection is applied to many industries such as banking or insurance. In b
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Archi1994/fraud_detection.git)
 
-<center><img src="images/FraudDetection.jpg"/></center>
+<center><img src="/assets/img/FraudDetection.jpg"/></center>
 
 ---
