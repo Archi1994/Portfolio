@@ -9,4 +9,6 @@ description: <p align="center">
   Currently am pursuing Executive PG Programme in Machine Learning & AI offered by Upgrad and IIIT-Bangalore.
   Hope this will help me grow more in the field of Data Science. This is the page I will be using to host my upcoming projects done in the field of Data Science.
   </p>
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
